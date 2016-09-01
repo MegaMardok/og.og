@@ -1,0 +1,3 @@
+<?
+setcookie("test", "test");
+?>
